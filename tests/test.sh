@@ -1,0 +1,1 @@
+curl --request PUT --header "Content-Type: application/json" --write-out "%{http_code}\n" -d '{"value":"23423423", "causal-context":{}}' 10.10.0.2:13800/kvs/keys/oink -v 

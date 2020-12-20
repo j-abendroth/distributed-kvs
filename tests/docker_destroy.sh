@@ -1,0 +1,16 @@
+docker kill node0
+docker kill node1
+docker kill node2
+docker kill node3
+docker kill node4
+docker kill node5
+docker kill node6
+docker kill node7
+docker rm node0
+docker rm node1
+docker rm node2
+docker rm node3
+docker rm node4
+docker rm node5
+docker rm node6
+docker rm node7
