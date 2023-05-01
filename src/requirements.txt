@@ -1,4 +1,4 @@
-flask==1.1.2
+flask==2.3.2
 flask_restful==0.3.8
 requests==2.24.0
 grequests==0.6.0
